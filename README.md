@@ -14,4 +14,4 @@ Installation :
 
 5. enojy ! 
 
-feel free to use this project 
+Feel free to credit me if you use my code it is not required but I like to see people's projects :D.
